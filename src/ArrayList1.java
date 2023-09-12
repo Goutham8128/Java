@@ -1,21 +1,21 @@
-import org.w3c.dom.ls.LSOutput;
+
 
 import java.util.ArrayList;
 
 public class ArrayList1 {
     public static void main(String[] args){
-        ArrayList<ArrayList<String>> Inventory= new ArrayList();
-         ArrayList<String> food = new ArrayList<String>();
+        ArrayList<ArrayList<String>> Inventory= new ArrayList<>();
+         ArrayList<String> food = new ArrayList<>();
          food.add("Pizza");
          food.add("Hamburger");
          food.add("zucchini");
 
-         ArrayList<String> drinks=new ArrayList<String>();
+         ArrayList<String> drinks=new ArrayList<>();
          drinks.add("beer");
          drinks.add("whiskey");
 
-         ArrayList<Integer> quantity=new ArrayList<Integer>();
-         quantity.add(2);;
+         ArrayList<Integer> quantity=new ArrayList<>();
+         quantity.add(2);
          quantity.add(5);
 
          Inventory.add(food);
