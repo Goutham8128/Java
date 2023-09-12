@@ -11,7 +11,7 @@ public class ArrayList1 {
          food.add("zucchini");
 
          ArrayList<String> drinks=new ArrayList<>();
-         drinks.add("beeryg");
+         drinks.add("beer");
          drinks.add("whiskey");
 
          ArrayList<Integer> quantity=new ArrayList<>();
