@@ -13,6 +13,7 @@ public class ArrayList1 {
          ArrayList<String> drinks=new ArrayList<>();
          drinks.add("beer");
          drinks.add("whiskey");
+         drinks.add("carlsberg");
 
          ArrayList<Integer> quantity=new ArrayList<>();
          quantity.add(2);
